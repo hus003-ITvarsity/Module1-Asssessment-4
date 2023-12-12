@@ -1,0 +1,22 @@
+table{
+    font-family:cursive;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-bottom-style: dotted;
+    border-color: lightskyblue;
+    background-color:skyblue;
+}
+th{
+    font-weight: 800;
+    background-color:forestgreen;
+}
+
+tr{
+    font-weight: 800;
+    background-color:aliceblue;
+    color:darkseagreen;
+}
+
+table{
+    margin:0 auto;
+}
